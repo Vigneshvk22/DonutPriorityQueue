@@ -9,11 +9,11 @@
 
 ## General info
 This project is designed to satisfy the following requirements : 
-* Allows the user to place orders in Jim's donut shop through webservice.
-* Allows the user to check his/her queue position and waiting time.
+* Allows the customer to place orders in Jim's donut shop through webservice.
+* Allows the customer to check his/her queue position and waiting time.
 * Allows the Manager of Jim's Donut shop to see all the entries in the queue with average waiting time.
-* Allows to retrieve the next order to be placed in the cart.
-* Allows the user to cancel the order.
+* Allows Jim to retrieve the next order to be placed in the cart.
+* Allows the customer to cancel the order.
 
 ## Technologies
 Project is created with:
