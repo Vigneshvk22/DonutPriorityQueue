@@ -32,7 +32,7 @@ Before you continue, ensure you have met the following requirements:
 ## Installation
 * Download the donutpriorityqueue.zip and extract the files to your local system.
 * Open IDE and import the extracted project(In Eclipse, choose File->Import->Maven->Existing Maven Project).
-* Browse donutpriorityqueue project where it has been extracted earlier.
+* Browse donutpriorityqueue project where it has been extracted earlier and click OK.
 * Wait for sometime,until the IDE builds the project.
 
 ## Execution
