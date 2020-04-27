@@ -71,6 +71,7 @@ Before you continue, ensure you have met the following requirements:
 * Click try it out.
 * Enter the Client id, required number of donuts and click execute.
 * A success message will be displayed after placing the order.
+* If the customer id is invalid, corresponding error message will be displayed.
 * If the customer who has already made an order,try to place a new order before
   cancelling a corresponding error message will be displayed.
   
